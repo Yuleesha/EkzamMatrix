@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EkzamMatrix", "EkzamMatrix\EkzamMatrix.csproj", "{95E323FD-4BF5-4AF0-81A4-60ECC33BB295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTests", "MatrixTests\MatrixTests.csproj", "{3280C301-B042-42CF-9C68-1253BBCAA68D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95E323FD-4BF5-4AF0-81A4-60ECC33BB295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E323FD-4BF5-4AF0-81A4-60ECC33BB295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E323FD-4BF5-4AF0-81A4-60ECC33BB295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E323FD-4BF5-4AF0-81A4-60ECC33BB295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3280C301-B042-42CF-9C68-1253BBCAA68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3280C301-B042-42CF-9C68-1253BBCAA68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3280C301-B042-42CF-9C68-1253BBCAA68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3280C301-B042-42CF-9C68-1253BBCAA68D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA12482-5681-411E-B774-F28EB46E425C}
+	EndGlobalSection
+EndGlobal
